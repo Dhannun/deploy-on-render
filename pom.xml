@@ -57,6 +57,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>ticket</finalName>
 	</build>
 
 </project>
