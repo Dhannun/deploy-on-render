@@ -1,0 +1,8 @@
+click/touchit/ticket/ticket/TicketController.class
+click/touchit/ticket/ticket/TicketRepository.class
+click/touchit/ticket/ticket/Ticket.class
+click/touchit/ticket/ticket/TicketStatus.class
+click/touchit/ticket/ticket/Ticket$TicketBuilder.class
+click/touchit/ticket/TicketApplication.class
+click/touchit/ticket/ticket/dto/TicketRequest.class
+click/touchit/ticket/ticket/TicketService.class
